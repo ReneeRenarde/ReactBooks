@@ -1,13 +1,11 @@
 # React Google Search Books
-![Search Books](images\books.PNG)
+
+![Search Books](/images/books.PNG)
+
 ## Overview
 
 A new React-based Google Books Search application. This application was using React components, work with helper/util functions, and utilize React lifecycle methods to query and display books based on user searches.  This application was using Node, Express, React-router and MongoDB so that users can save articles to read later.
 
 ## Demo
 
-<<<<<<< HEAD
 *Google Books Search* is deployed to Heroku. Please check it out [here](https://obscure-caverns-39514.herokuapp.com/)
-=======
-*Google Books Search* is deployed to Heroku. Please check it out [here](https://obscure-caverns-39514.herokuapp.com/)
->>>>>>> 0b9038b7a77a5a86a4bb2934b3d06ce6f7cacffd
