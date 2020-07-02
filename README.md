@@ -8,4 +8,4 @@ A new React-based Google Books Search application. This application was using Re
 
 ## Demo
 
-*Google Books Search* is deployed to Heroku. Please check it out [here](https://obscure-caverns-39514.herokuapp.com/)
+*Google Books Search* is deployed to Heroku. Please check it out [here](https://honest-keener-98465.herokuapp.com/)
